@@ -1,0 +1,7 @@
+
+set(CMAKE_SYSTEM_NAME Cuda)
+set(CMAKE_SYSTEM_PROCESSOR nvptx64)
+set(CMAKE_C_COMPILER clang)
+set(CMAKE_C_COMPILER_TARGET nvptx64-nvidia-cuda)
+set(CMAKE_CXX_COMPILER clang++)
+set(CMAKE_CXX_COMPILER_TARGET nvptx64-nvidia-cuda)
