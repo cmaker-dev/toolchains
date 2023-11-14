@@ -1,4 +1,3 @@
-
 set(CMAKE_SYSTEM_NAME Solaris)
 set(CMAKE_SYSTEM_PROCESSOR sparcv9)
 set(CMAKE_C_COMPILER clang)

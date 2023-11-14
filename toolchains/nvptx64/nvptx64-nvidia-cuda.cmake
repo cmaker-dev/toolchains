@@ -1,4 +1,3 @@
-
 set(CMAKE_SYSTEM_NAME Cuda)
 set(CMAKE_SYSTEM_PROCESSOR nvptx64)
 set(CMAKE_C_COMPILER clang)

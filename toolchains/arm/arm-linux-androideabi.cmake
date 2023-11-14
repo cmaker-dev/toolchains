@@ -1,4 +1,3 @@
-
 set(CMAKE_SYSTEM_NAME Androideabi)
 set(CMAKE_SYSTEM_PROCESSOR arm)
 set(CMAKE_C_COMPILER clang)

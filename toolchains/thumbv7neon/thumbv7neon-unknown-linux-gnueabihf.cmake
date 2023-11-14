@@ -1,4 +1,3 @@
-
 set(CMAKE_SYSTEM_NAME Linux-gnueabihf)
 set(CMAKE_SYSTEM_PROCESSOR thumbv7neon)
 set(CMAKE_C_COMPILER clang)

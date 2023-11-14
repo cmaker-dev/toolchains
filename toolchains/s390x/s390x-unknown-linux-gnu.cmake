@@ -1,4 +1,3 @@
-
 set(CMAKE_SYSTEM_NAME Linux-gnu)
 set(CMAKE_SYSTEM_PROCESSOR s390x)
 set(CMAKE_C_COMPILER clang)

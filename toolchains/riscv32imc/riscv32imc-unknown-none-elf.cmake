@@ -1,4 +1,3 @@
-
 set(CMAKE_SYSTEM_NAME None-elf)
 set(CMAKE_SYSTEM_PROCESSOR riscv32imc)
 set(CMAKE_C_COMPILER clang)

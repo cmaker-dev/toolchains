@@ -1,4 +1,3 @@
-
 set(CMAKE_SYSTEM_NAME Windows-msvc)
 set(CMAKE_SYSTEM_PROCESSOR aarch64)
 set(CMAKE_C_COMPILER clang)

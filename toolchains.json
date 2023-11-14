@@ -1,0 +1,346 @@
+[
+    {
+        "name": "i686-pc-windows-gnu",
+        "path": "./toolchains/i686/i686-pc-windows-gnu.cmake"
+    },
+    {
+        "name": "i686-pc-windows-msvc",
+        "path": "./toolchains/i686/i686-pc-windows-msvc.cmake"
+    },
+    {
+        "name": "i686-unknown-linux-musl",
+        "path": "./toolchains/i686/i686-unknown-linux-musl.cmake"
+    },
+    {
+        "name": "i686-linux-android",
+        "path": "./toolchains/i686/i686-linux-android.cmake"
+    },
+    {
+        "name": "i686-unknown-linux-gnu",
+        "path": "./toolchains/i686/i686-unknown-linux-gnu.cmake"
+    },
+    {
+        "name": "i686-unknown-uefi",
+        "path": "./toolchains/i686/i686-unknown-uefi.cmake"
+    },
+    {
+        "name": "i686-unknown-freebsd",
+        "path": "./toolchains/i686/i686-unknown-freebsd.cmake"
+    },
+    {
+        "name": "armv7r-none-eabihf",
+        "path": "./toolchains/armv7r/armv7r-none-eabihf.cmake"
+    },
+    {
+        "name": "armv7r-none-eabi",
+        "path": "./toolchains/armv7r/armv7r-none-eabi.cmake"
+    },
+    {
+        "name": "thumbv8m.main-none-eabi",
+        "path": "./toolchains/thumbv8m.main/thumbv8m.main-none-eabi.cmake"
+    },
+    {
+        "name": "thumbv8m.main-none-eabihf",
+        "path": "./toolchains/thumbv8m.main/thumbv8m.main-none-eabihf.cmake"
+    },
+    {
+        "name": "sparcv9-sun-solaris",
+        "path": "./toolchains/sparcv9/sparcv9-sun-solaris.cmake"
+    },
+    {
+        "name": "wasm32-wasi-preview1-threads",
+        "path": "./toolchains/wasm32/wasm32-wasi-preview1-threads.cmake"
+    },
+    {
+        "name": "wasm32-wasi",
+        "path": "./toolchains/wasm32/wasm32-wasi.cmake"
+    },
+    {
+        "name": "wasm32-unknown-unknown",
+        "path": "./toolchains/wasm32/wasm32-unknown-unknown.cmake"
+    },
+    {
+        "name": "wasm32-unknown-emscripten",
+        "path": "./toolchains/wasm32/wasm32-unknown-emscripten.cmake"
+    },
+    {
+        "name": "riscv64imac-unknown-none-elf",
+        "path": "./toolchains/riscv64imac/riscv64imac-unknown-none-elf.cmake"
+    },
+    {
+        "name": "s390x-unknown-linux-gnu",
+        "path": "./toolchains/s390x/s390x-unknown-linux-gnu.cmake"
+    },
+    {
+        "name": "nvptx64-nvidia-cuda",
+        "path": "./toolchains/nvptx64/nvptx64-nvidia-cuda.cmake"
+    },
+    {
+        "name": "armebv7r-none-eabi",
+        "path": "./toolchains/armebv7r/armebv7r-none-eabi.cmake"
+    },
+    {
+        "name": "armebv7r-none-eabihf",
+        "path": "./toolchains/armebv7r/armebv7r-none-eabihf.cmake"
+    },
+    {
+        "name": "aarch64-unknown-linux-musl",
+        "path": "./toolchains/aarch64/aarch64-unknown-linux-musl.cmake"
+    },
+    {
+        "name": "aarch64-unknown-uefi",
+        "path": "./toolchains/aarch64/aarch64-unknown-uefi.cmake"
+    },
+    {
+        "name": "aarch64-apple-darwin",
+        "path": "./toolchains/aarch64/aarch64-apple-darwin.cmake"
+    },
+    {
+        "name": "aarch64-linux-android",
+        "path": "./toolchains/aarch64/aarch64-linux-android.cmake"
+    },
+    {
+        "name": "aarch64-unknown-none-softfloat",
+        "path": "./toolchains/aarch64/aarch64-unknown-none-softfloat.cmake"
+    },
+    {
+        "name": "aarch64-apple-ios",
+        "path": "./toolchains/aarch64/aarch64-apple-ios.cmake"
+    },
+    {
+        "name": "aarch64-apple-ios-sim",
+        "path": "./toolchains/aarch64/aarch64-apple-ios-sim.cmake"
+    },
+    {
+        "name": "aarch64-unknown-none",
+        "path": "./toolchains/aarch64/aarch64-unknown-none.cmake"
+    },
+    {
+        "name": "aarch64-unknown-fuchsia",
+        "path": "./toolchains/aarch64/aarch64-unknown-fuchsia.cmake"
+    },
+    {
+        "name": "aarch64-pc-windows-msvc",
+        "path": "./toolchains/aarch64/aarch64-pc-windows-msvc.cmake"
+    },
+    {
+        "name": "aarch64-unknown-linux-gnu",
+        "path": "./toolchains/aarch64/aarch64-unknown-linux-gnu.cmake"
+    },
+    {
+        "name": "riscv32i-unknown-none-elf",
+        "path": "./toolchains/riscv32i/riscv32i-unknown-none-elf.cmake"
+    },
+    {
+        "name": "thumbv7em-none-eabi",
+        "path": "./toolchains/thumbv7em/thumbv7em-none-eabi.cmake"
+    },
+    {
+        "name": "thumbv7em-none-eabihf",
+        "path": "./toolchains/thumbv7em/thumbv7em-none-eabihf.cmake"
+    },
+    {
+        "name": "riscv64gc-unknown-none-elf",
+        "path": "./toolchains/riscv64gc/riscv64gc-unknown-none-elf.cmake"
+    },
+    {
+        "name": "riscv64gc-unknown-linux-gnu",
+        "path": "./toolchains/riscv64gc/riscv64gc-unknown-linux-gnu.cmake"
+    },
+    {
+        "name": "powerpc64le-unknown-linux-gnu",
+        "path": "./toolchains/powerpc64le/powerpc64le-unknown-linux-gnu.cmake"
+    },
+    {
+        "name": "arm-unknown-linux-musleabihf",
+        "path": "./toolchains/arm/arm-unknown-linux-musleabihf.cmake"
+    },
+    {
+        "name": "arm-unknown-linux-musleabi",
+        "path": "./toolchains/arm/arm-unknown-linux-musleabi.cmake"
+    },
+    {
+        "name": "arm-linux-androideabi",
+        "path": "./toolchains/arm/arm-linux-androideabi.cmake"
+    },
+    {
+        "name": "arm-unknown-linux-gnueabihf",
+        "path": "./toolchains/arm/arm-unknown-linux-gnueabihf.cmake"
+    },
+    {
+        "name": "arm-unknown-linux-gnueabi",
+        "path": "./toolchains/arm/arm-unknown-linux-gnueabi.cmake"
+    },
+    {
+        "name": "thumbv8m.base-none-eabi",
+        "path": "./toolchains/thumbv8m.base/thumbv8m.base-none-eabi.cmake"
+    },
+    {
+        "name": "armv7-unknown-linux-gnueabihf",
+        "path": "./toolchains/armv7/armv7-unknown-linux-gnueabihf.cmake"
+    },
+    {
+        "name": "armv7-unknown-linux-gnueabi",
+        "path": "./toolchains/armv7/armv7-unknown-linux-gnueabi.cmake"
+    },
+    {
+        "name": "armv7-unknown-linux-musleabihf",
+        "path": "./toolchains/armv7/armv7-unknown-linux-musleabihf.cmake"
+    },
+    {
+        "name": "armv7-unknown-linux-musleabi",
+        "path": "./toolchains/armv7/armv7-unknown-linux-musleabi.cmake"
+    },
+    {
+        "name": "armv7-linux-androideabi",
+        "path": "./toolchains/armv7/armv7-linux-androideabi.cmake"
+    },
+    {
+        "name": "riscv32imac-unknown-none-elf",
+        "path": "./toolchains/riscv32imac/riscv32imac-unknown-none-elf.cmake"
+    },
+    {
+        "name": "asmjs-unknown-emscripten",
+        "path": "./toolchains/asmjs/asmjs-unknown-emscripten.cmake"
+    },
+    {
+        "name": "thumbv7neon-linux-androideabi",
+        "path": "./toolchains/thumbv7neon/thumbv7neon-linux-androideabi.cmake"
+    },
+    {
+        "name": "thumbv7neon-unknown-linux-gnueabihf",
+        "path": "./toolchains/thumbv7neon/thumbv7neon-unknown-linux-gnueabihf.cmake"
+    },
+    {
+        "name": "armv5te-unknown-linux-gnueabi",
+        "path": "./toolchains/armv5te/armv5te-unknown-linux-gnueabi.cmake"
+    },
+    {
+        "name": "armv5te-unknown-linux-musleabi",
+        "path": "./toolchains/armv5te/armv5te-unknown-linux-musleabi.cmake"
+    },
+    {
+        "name": "thumbv6m-none-eabi",
+        "path": "./toolchains/thumbv6m/thumbv6m-none-eabi.cmake"
+    },
+    {
+        "name": "powerpc64-unknown-linux-gnu",
+        "path": "./toolchains/powerpc64/powerpc64-unknown-linux-gnu.cmake"
+    },
+    {
+        "name": "loongarch64-unknown-linux-gnu",
+        "path": "./toolchains/loongarch64/loongarch64-unknown-linux-gnu.cmake"
+    },
+    {
+        "name": "loongarch64-unknown-none",
+        "path": "./toolchains/loongarch64/loongarch64-unknown-none.cmake"
+    },
+    {
+        "name": "loongarch64-unknown-none-softfloat",
+        "path": "./toolchains/loongarch64/loongarch64-unknown-none-softfloat.cmake"
+    },
+    {
+        "name": "powerpc-unknown-linux-gnu",
+        "path": "./toolchains/powerpc/powerpc-unknown-linux-gnu.cmake"
+    },
+    {
+        "name": "i586-unknown-linux-musl",
+        "path": "./toolchains/i586/i586-unknown-linux-musl.cmake"
+    },
+    {
+        "name": "i586-unknown-linux-gnu",
+        "path": "./toolchains/i586/i586-unknown-linux-gnu.cmake"
+    },
+    {
+        "name": "i586-pc-windows-msvc",
+        "path": "./toolchains/i586/i586-pc-windows-msvc.cmake"
+    },
+    {
+        "name": "sparc64-unknown-linux-gnu",
+        "path": "./toolchains/sparc64/sparc64-unknown-linux-gnu.cmake"
+    },
+    {
+        "name": "thumbv7m-none-eabi",
+        "path": "./toolchains/thumbv7m/thumbv7m-none-eabi.cmake"
+    },
+    {
+        "name": "armv7a-none-eabi",
+        "path": "./toolchains/armv7a/armv7a-none-eabi.cmake"
+    },
+    {
+        "name": "riscv32imc-unknown-none-elf",
+        "path": "./toolchains/riscv32imc/riscv32imc-unknown-none-elf.cmake"
+    },
+    {
+        "name": "x86_64-apple-darwin",
+        "path": "./toolchains/x86_64/x86_64-apple-darwin.cmake"
+    },
+    {
+        "name": "x86_64-unknown-redox",
+        "path": "./toolchains/x86_64/x86_64-unknown-redox.cmake"
+    },
+    {
+        "name": "x86_64-unknown-none",
+        "path": "./toolchains/x86_64/x86_64-unknown-none.cmake"
+    },
+    {
+        "name": "x86_64-sun-solaris",
+        "path": "./toolchains/x86_64/x86_64-sun-solaris.cmake"
+    },
+    {
+        "name": "x86_64-unknown-freebsd",
+        "path": "./toolchains/x86_64/x86_64-unknown-freebsd.cmake"
+    },
+    {
+        "name": "x86_64-unknown-fuchsia",
+        "path": "./toolchains/x86_64/x86_64-unknown-fuchsia.cmake"
+    },
+    {
+        "name": "x86_64-linux-android",
+        "path": "./toolchains/x86_64/x86_64-linux-android.cmake"
+    },
+    {
+        "name": "x86_64-unknown-linux-gnux32",
+        "path": "./toolchains/x86_64/x86_64-unknown-linux-gnux32.cmake"
+    },
+    {
+        "name": "x86_64-apple-ios",
+        "path": "./toolchains/x86_64/x86_64-apple-ios.cmake"
+    },
+    {
+        "name": "x86_64-unknown-illumos",
+        "path": "./toolchains/x86_64/x86_64-unknown-illumos.cmake"
+    },
+    {
+        "name": "x86_64-unknown-linux-gnu",
+        "path": "./toolchains/x86_64/x86_64-unknown-linux-gnu.cmake"
+    },
+    {
+        "name": "x86_64-unknown-uefi",
+        "path": "./toolchains/x86_64/x86_64-unknown-uefi.cmake"
+    },
+    {
+        "name": "x86_64-pc-windows-msvc",
+        "path": "./toolchains/x86_64/x86_64-pc-windows-msvc.cmake"
+    },
+    {
+        "name": "x86_64-unknown-netbsd",
+        "path": "./toolchains/x86_64/x86_64-unknown-netbsd.cmake"
+    },
+    {
+        "name": "x86_64-unknown-linux-musl",
+        "path": "./toolchains/x86_64/x86_64-unknown-linux-musl.cmake"
+    },
+    {
+        "name": "x86_64-pc-windows-gnu",
+        "path": "./toolchains/x86_64/x86_64-pc-windows-gnu.cmake"
+    },
+    {
+        "name": "x86_64-pc-solaris",
+        "path": "./toolchains/x86_64/x86_64-pc-solaris.cmake"
+    },
+    {
+        "name": "x86_64-fortanix-unknown-sgx",
+        "path": "./toolchains/x86_64/x86_64-fortanix-unknown-sgx.cmake"
+    }
+]

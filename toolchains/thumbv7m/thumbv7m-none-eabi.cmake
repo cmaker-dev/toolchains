@@ -1,4 +1,3 @@
-
 set(CMAKE_SYSTEM_NAME Eabi)
 set(CMAKE_SYSTEM_PROCESSOR thumbv7m)
 set(CMAKE_C_COMPILER clang)

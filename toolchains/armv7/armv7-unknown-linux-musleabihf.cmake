@@ -1,4 +1,3 @@
-
 set(CMAKE_SYSTEM_NAME Linux-musleabihf)
 set(CMAKE_SYSTEM_PROCESSOR armv7)
 set(CMAKE_C_COMPILER clang)

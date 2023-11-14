@@ -1,4 +1,3 @@
-
 set(CMAKE_SYSTEM_NAME Eabihf)
 set(CMAKE_SYSTEM_PROCESSOR armv7r)
 set(CMAKE_C_COMPILER clang)
