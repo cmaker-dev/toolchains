@@ -15,7 +15,7 @@ jobs:
         with:
           python-version: ${{matrix.python-version}}
       - name: gen targets
-        run: cd ${{github.workspace}}/generator  && python main.py
+        run: ls ${{github.workspace}} && cd ${{github.workspace}}/generator  && python main.py
       - name: Release
         uses: svenstaro/upload-release-action@v2
         with:
